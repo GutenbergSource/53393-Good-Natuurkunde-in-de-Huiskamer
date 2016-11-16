@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Natuurkunde in de Huiskamer, ongeveer 100 proeven met huishoudelijke voorwerpen</dc:title>
+      <dc:creator>Arthur Good</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2016-10-28</dc:publisher>
+      <dc:date>2016-10-28</dc:date>
+      <dc:rights>Dit eBoek is voor kosteloos gebruik door iedereen overal, met vrijwel geen beperkingen van welke soort dan ook. U mag het kopiëren, weggeven of hergebruiken onder de voorwaarden van de Project Gutenberg Licentie bij dit eBoek of on-line op www.gutenberg.org.
+Dit eBoek is geproduceerd door het on-line gedistribueerd correctieteam op www.pgdp.net.
+</dc:rights>
+      <dc:subject>Magic tricks</dc:subject>
+      <dc:subject>Science</dc:subject>
+      <dc:subject>Experiments</dc:subject>
+      <dc:subject>Handbooks</dc:subject>
+      <dc:subject>Manuals</dc:subject>
+      <dc:subject>Scientific recreations</dc:subject>
+      <dc:identifier>pg:53393</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
